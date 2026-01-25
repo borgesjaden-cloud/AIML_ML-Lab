@@ -1,7 +1,10 @@
 Finally completed ml Exp 2 :)
-	Detected outliers for Age and Fare
-	Normalized Fare
-	Standardized fare
+	1) Detected outliers for Age and Fare
+	
+	2) Normalized Fare
+	
+	3) Standardized fare
+	
 	Plotted Graph for Survival Distribution
 	Plotted Graph for Survival Rate by Passenger Class
 	Plotted Graph for Age Distribution of Passengers 
